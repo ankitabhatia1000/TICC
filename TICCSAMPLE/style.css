@@ -1,0 +1,263 @@
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 33px;
+    
+  }
+
+  li{
+    /* float:left; */
+    display:inline;
+  }
+
+  li a{
+    
+    text-align: center;
+       
+    text-decoration:white;
+    font-size: 20px;
+    padding: 35px;
+    color: black;
+  
+    
+    
+   
+    
+  }
+
+    .nav{
+        position: relative;
+        /* left: 900px; */
+        top:-50px;
+        width: 40%;
+        
+        
+    
+       
+}
+        
+      
+      body,html {
+        height: 100%;
+        margin: 0;
+      }
+
+  .bg-img{
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    width:100%;
+    /* height:655px; */
+    margin-top:-114px;
+  }
+ 
+
+    .heading{
+        margin-top:-200px;
+        margin-left:1050px;
+        font-size:40px;
+    }
+
+    .sec1{
+      height:700px;
+    }
+
+    .sec2{
+      position:relative;
+      top:-133px;
+    }
+
+    .work-img{
+      height: 90%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-size: 90%;
+      width:27%;
+      position:relative;
+       left:85px;
+       top:17px;
+       transition: transform .2s
+    }
+    .work-img:hover {
+      transform: scale(1.25)
+    }
+    
+    .next-img{
+      height: 90%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-size: 100%;
+      width:27%;
+      position:relative;
+       left:865px;
+       top:13px;
+       transition: transform .2s
+    }
+
+    .next-img:hover {
+      transform: scale(1.25)
+    }
+
+    .further{
+      background-color:#DAE5D0;
+      background-size: cover;
+      background-size: 100%;
+      height:300px;
+      position:relative;
+      top:20px;
+
+    }
+    .round{
+      background-color:#DAE5D0;
+      position:relative;
+      top:20px;
+      background-size: cover;
+      background-size: 100%;
+      height:300px;
+    }
+
+    .head1{
+      margin-left:750px;
+      position:relative;
+      top:-275px;
+      font-size: 50px;
+    }
+
+    .btn1{
+      margin-left:850px;
+      position:relative;
+      top:-250px;
+      background-color: #C2FBD7;
+      color: #008000;
+       cursor: pointer;
+       font-family: Arial, sans-serif;
+      font-size: 1em;
+      height: 40px;
+      padding: 0 25px;
+      /* border-radius: 10px; */
+      /* border: solid black; */
+      
+      /* transition: all 200ms; */
+    }
+
+    .btn1:hover {
+      background-color:crimson;
+      color: white;}
+
+    .head2{
+      margin-left:50px;
+      position:relative;
+      top:-275px;
+      font-size: 50px;
+    }
+
+    .btn2{
+      margin-left:90px;
+      position:relative;
+      top:-250px;
+      background-color: #C2FBD7;
+      color: #008000;
+       cursor: pointer;
+       font-family: Arial, sans-serif;
+      font-size: 1em;
+      height: 40px;
+      padding: 0 25px;
+      /* transition: all 200ms; */
+    }
+    .btn2:hover {
+      background-color:crimson;
+      color: white;}
+
+    .join-img{
+      height: 300px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-size: 100%;
+      width:30%;
+      position:relative;
+       left:450px;
+       top:140px;
+        transition: transform .2s 
+    }
+
+    .join-img:hover {
+      transform: scale(1.25)
+    }
+
+    .head3{
+      font-size: 55px;
+      margin-top:-270px;
+      margin-left: 480px;
+      border-color: aqua;
+    }
+
+    .btn3{
+      margin-left:90px;
+      position:relative;
+      top:-250px;
+      background-color:black;
+    color: palevioletred;
+       cursor: pointer;
+       font-family: Arial, sans-serif;
+      font-size: 1em;
+      height: 40px;
+      padding: 0 25px;
+    }
+.btn4{
+    margin-left:90px;
+      position:relative;
+      top:-250px;
+      background-color:black;
+    color: palevioletred;
+       cursor: pointer;
+       font-family: Arial, sans-serif;
+      font-size: 1em;
+      height: 40px;
+      padding: 0 25px;
+}
+
+.btn5{
+  margin-left:90px;
+    position:relative;
+    top:-250px;
+    background-color:black;
+    color: palevioletred;
+     cursor: pointer;
+     font-family: Arial, sans-serif;
+    font-size: 1em;
+    height: 40px;
+    padding: 0 25px;
+}
+
+.one{
+  margin-top:700px;
+  margin-left:320px;
+}
+
+.two{
+  background-color:#EBEBE3;
+  position:relative;
+      top:-112px;
+      
+}
+
+.three{
+  height:780px;
+}
+
+    
+  
